@@ -1,4 +1,4 @@
-<div align="center"><h1> Hi, i am Nikhil Pujar </h1> </div>
+
 
 # About Me
 Undergraduate at NIT Jalandhar
